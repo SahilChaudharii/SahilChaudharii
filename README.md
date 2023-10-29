@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, PyTorch, Scikit-Learn**
 
-- 💬 Ask me about **ReactJs,Python,**
+- 💬 Ask me about **ReactJs,Python,Django**
 
 - 📫 How to reach me **sahilchaudhari998@gmail.com**
 
