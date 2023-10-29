@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Chaudhari</h1>
-<h3 align="center">A passionate developer exploring Website Development in my Third year & currently making projects in Machine Learning</h3>
+<h3 align="center">A passionate developer explored Website Development earlier  & currently making projects in Machine Learning</h3>
 
 - 🔭 I’m currently working on **StockSentix**
 
